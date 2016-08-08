@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.source   = { :git    => 'https://github.com/daogu/AESCrypt-ObjC.git',
                  :branch => 'master'  }
 
-  s.source_files = 'AESCrypt-ObjC'
+  s.source_files = 'AESCrypt'
 
   s.framework    = 'Security'
 end
